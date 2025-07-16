@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+# Rabbit House里的孤独常客，但是近期找不到咖啡店的门在哪
+## **Bully 我，你的所有设备将自动下载Genshin impact**
+### 近期在做时间序列预测和arduino小玩意，我会将制作步骤发布于此（😅真的有人需要这种无聊且重复的教程吗？）
+### 甚至还会发布各种现实生活指南（😅也许是菜谱？）
+### translated English ver. :
+# The Lonely Regular at Rabbit House, but Recently Can't Find the Coffee Shop's Door
+## **Bully Me, All Your Devices Will Automatically Download Genshin Impact**
+### Recently working on time series forecasting and Arduino gadgets, I will post the steps here (does anyone really need such boring and repetitive tutorials?)
+### We will even publish various real-life guides (maybe recipes?)
+
 <!--
 **AkebiBocchi/AkebiBocchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
